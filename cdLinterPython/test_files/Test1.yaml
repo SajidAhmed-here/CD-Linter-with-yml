@@ -1,0 +1,9 @@
+build:
+  script: make
+  when: manual
+  allow_failure: true
+
+test:
+  script: pytest
+  retry:
+    max: 2
