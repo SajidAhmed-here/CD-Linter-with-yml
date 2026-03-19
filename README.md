@@ -1,4 +1,4 @@
-# CD-Linter-with-yml
+# github action smell detector
 Requirements
 Python 3.8 or higher
 PyYAML
