@@ -70,7 +70,7 @@ All experiments were conducted using **Google Colab**. No local setup is require
 
 Open the notebook directly in Google Colab:
 
-📓 [`smell_detection_analysis.ipynb`]([notebooks/Github_Smell_detector.ipynb](https://github.com/SajidAhmed-here/github_action_smell_detector/blob/main/Github_Smell_detector.ipynb))
+📓 [`smell_detection_analysis.ipynb`](https://github.com/SajidAhmed-here/github_action_smell_detector/blob/main/Github_Smell_detector.ipynb)
 
 
 ### Step 2 — Upload the Dataset
