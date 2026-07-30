@@ -141,7 +141,8 @@ If you use this replication package, please cite our paper:
   author    = {Sajid Ahmed, Samia Rahman, Kazi Tasnia Farin Ifa, and Proma Chowdhury},
   booktitle = {Proceedings of the CI/CD Industry Workshop (CCIW), ICST 2026},
   year      = {2026},
-  organization = {IEEE}
+  organization = {IEEE},
+  doi          = {10.1109/ICSTW72326.2026.00026}
 }
 ```
 
